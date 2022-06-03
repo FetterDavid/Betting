@@ -1,0 +1,12 @@
+E:\Projects\C# Programs\SportBeting\SportBeting\bin\Release\Settings.job
+E:\Projects\C# Programs\SportBeting\SportBeting\bin\Release\SportBeting.exe.config
+E:\Projects\C# Programs\SportBeting\SportBeting\bin\Release\SportBeting.exe
+E:\Projects\C# Programs\SportBeting\SportBeting\bin\Release\SportBeting.pdb
+E:\Projects\C# Programs\SportBeting\SportBeting\bin\Release\Newtonsoft.Json.dll
+E:\Projects\C# Programs\SportBeting\SportBeting\bin\Release\Newtonsoft.Json.xml
+E:\Projects\C# Programs\SportBeting\SportBeting\obj\Release\SportBeting.csproj.AssemblyReference.cache
+E:\Projects\C# Programs\SportBeting\SportBeting\obj\Release\SportBeting.csproj.SuggestedBindingRedirects.cache
+E:\Projects\C# Programs\SportBeting\SportBeting\obj\Release\SportBeting.csproj.CoreCompileInputs.cache
+E:\Projects\C# Programs\SportBeting\SportBeting\obj\Release\SportBeting.csproj.CopyComplete
+E:\Projects\C# Programs\SportBeting\SportBeting\obj\Release\SportBeting.exe
+E:\Projects\C# Programs\SportBeting\SportBeting\obj\Release\SportBeting.pdb
